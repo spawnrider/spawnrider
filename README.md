@@ -5,8 +5,19 @@
 - 🔭 I’m loving working on DIY projects using arduino, esp32, M5stack and 3D printed parts. Btw, I'm looking for my next side project.  
 - 👾 I'm also currently doing some stuff with the Flipper device (NFC, IR and so on...)  
 - ⚡ Fun fact: I love open source projects 🥰  
- 
-<br/>  
+
+### FR 🇫🇷
+Expert technique reconnu et curieux insatiable, je suis un architecte solution fullstack principal, toujours à l’affût des dernières tendances technologiques. Mon quotidien est rythmé par l’innovation : proposer des idées nouvelles, concevoir des solutions sur mesure et collaborer avec des équipes motivées pour relever les défis humains et technologiques.
+
+Innover et partager sont mes maîtres mots. J’aime repousser les limites en explorant de nouvelles approches pour répondre aux besoins uniques de mes clients tout en créant un impact durable. Mon expertise s'étend du développement fullstack aux architectures modernes, avec une passion particulière pour l’open source, les écosystèmes modulaires et les nouvelles tendances du numérique.
+
+En dehors du travail, je suis un créateur invétéré. Gadgetophile assumé et adepte du DIY, je m’épanouis dans des projets mêlant impression 3D (Prusa, Bambulab), domotique, woodworking et expérimentation technologique. Ces passions nourrissent mon approche professionnelle, me permettant d’explorer, d’apprendre et de partager des idées inédites.
+
+Ce qui m’anime :
+Transformer des challenges en opportunités grâce à des solutions adaptées et innovantes.
+Partager mes connaissances pour inspirer et apprendre des autres.
+Découvrir, tester et adopter de nouvelles technologies et méthodes.
+En tant que speaker, mon objectif est simple : vous transmettre mon enthousiasme, mes idées et des pistes concrètes pour innover et transformer vos projets technologiques.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -87,6 +98,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+* **[FR] L’Importance de la Veille Technologique en Informatique : Outils et Ressources Essentielles** : Cet article explore l’importance de la veille technologique et présente une sélection d’outils et de sites essentiels pour optimiser cette démarche. Le lire sur [medium](https://medium.com/@spawnrider/limportance-de-la-veille-technologique-en-informatique-outils-et-ressources-essentielles-ffc1635686b6)
 * **My Mac OS essential tools list at work** : I just switch to a M1 Macbook Pro at work and it rocks a lot. Here is my tools list for being more efficient using Mac OS. I am using them daily. Read it on [medium](https://medium.com/@spawnrider/my-mac-os-essential-tools-list-at-work-391792dfcd1d)
 <!-- BLOG-POST-LIST:END -->  
 
