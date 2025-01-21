@@ -14,10 +14,10 @@ Innover et partager sont mes maîtres mots. J’aime repousser les limites en ex
 En dehors du travail, je suis un créateur invétéré. Gadgetophile assumé et adepte du DIY, je m’épanouis dans des projets mêlant impression 3D (Prusa, Bambulab), domotique, woodworking et expérimentation technologique. Ces passions nourrissent mon approche professionnelle, me permettant d’explorer, d’apprendre et de partager des idées inédites.
 
 Ce qui m’anime :
-Transformer des challenges en opportunités grâce à des solutions adaptées et innovantes.
-Partager mes connaissances pour inspirer et apprendre des autres.
-Découvrir, tester et adopter de nouvelles technologies et méthodes.
-En tant que speaker, mon objectif est simple : vous transmettre mon enthousiasme, mes idées et des pistes concrètes pour innover et transformer vos projets technologiques.
+* Transformer des challenges en opportunités grâce à des solutions adaptées et innovantes.
+* Partager mes connaissances pour inspirer et apprendre des autres.
+* Découvrir, tester et adopter de nouvelles technologies et méthodes.
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
