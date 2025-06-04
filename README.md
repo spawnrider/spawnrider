@@ -1,7 +1,7 @@
 
 ### <div align="center">I'm Yohann Ciurlik, a full-time fullstack solution architect since 2008 🚀</div>  
   
-- 🌱 I’m currently learning Web partial hydratation and Kubernetes  
+- 🌱 I’m currently learning AI stuff and advanced Web technologies
 - 🔭 I’m loving working on DIY projects using arduino, esp32, M5stack and 3D printed parts. Btw, I'm looking for my next side project.  
 - 👾 I'm also currently doing some stuff with the Flipper device (NFC, IR and so on...)  
 - ⚡ Fun fact: I love open source projects 🥰  
@@ -18,6 +18,17 @@ Ce qui m’anime :
 * Partager mes connaissances pour inspirer et apprendre des autres.
 * Découvrir, tester et adopter de nouvelles technologies et méthodes.
 
+### EN 🇬🇧
+Recognised technical expert and insatiably curious, I am a principal full-stack solution architect, always on the lookout for the latest technological trends. My daily life is driven by innovation: proposing fresh ideas, designing tailored solutions, and collaborating with motivated teams to tackle human and technological challenges.
+
+Innovating and sharing are my watchwords. I love pushing boundaries by exploring new approaches to address my clients’ unique needs while creating a lasting impact. My expertise spans full-stack development and modern architectures, with a particular passion for open source, modular ecosystems, and emerging digital trends.
+
+Outside of work, I am an inveterate creator. A self-confessed gadget lover and DIY enthusiast, I thrive on projects that blend 3D printing (Prusa, Bambulab), home automation, woodworking, and technological experimentation. These passions fuel my professional approach, enabling me to explore, learn, and share novel ideas.
+
+What drives me :
+* Transforming challenges into opportunities through tailored, innovative solutions.
+* Sharing my knowledge to inspire and learn from others.
+* Discovering, testing, and adopting new technologies and methods.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
