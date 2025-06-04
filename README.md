@@ -75,8 +75,11 @@ Ce qui m’anime :
 <a href="https://github.com/spawnrider" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  <a href="https://bsky.app/profile/yohann.ciurlik.fr" target="_blank">
+<img src=https://img.shields.io/badge/bluesky-%2300acee.svg?&style=for-the-badge&logo=bluesky&logoColor=white alt=BlueSky style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/spawnrider" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/yohannciurlik" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -98,6 +101,7 @@ Ce qui m’anime :
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+* **[FR] 🌱 Cultiver un Second Cerveau : pourquoi et comment structurer ses notes** : À l’heure où l’information circule à grande vitesse, savoir capturer, organiser et réutiliser ses idées devient une compétence essentielle. Le lire sur [Medium](https://medium.com/@spawnrider/cultiver-un-second-cerveau-pourquoi-et-comment-structurer-ses-notes-d363554a5e9f) 
 * **[FR] L’Importance de la Veille Technologique en Informatique : Outils et Ressources Essentielles** : Cet article explore l’importance de la veille technologique et présente une sélection d’outils et de sites essentiels pour optimiser cette démarche. Le lire sur [medium](https://medium.com/@spawnrider/limportance-de-la-veille-technologique-en-informatique-outils-et-ressources-essentielles-ffc1635686b6)
 * **My Mac OS essential tools list at work** : I just switch to a M1 Macbook Pro at work and it rocks a lot. Here is my tools list for being more efficient using Mac OS. I am using them daily. Read it on [medium](https://medium.com/@spawnrider/my-mac-os-essential-tools-list-at-work-391792dfcd1d)
 <!-- BLOG-POST-LIST:END -->  
