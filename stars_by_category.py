@@ -1,6 +1,7 @@
 import os
 import requests
 from collections import defaultdict
+import re
 
 # ——— CONFIGURATION ———
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # mettre votre token GitHub ici ou en variable d'env.
