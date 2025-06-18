@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
     starred = get_starred(USERNAME, GITHUB_TOKEN)
     tables = build_tables(starred)
+    markdown = ""
     for cat, table in tables.items():
-        print(f"\n## {cat}\n")
-        print(table)
+        markdown += f"\n### {cat}\n\n{table}\n"
     inject_into_readme(markdown)
