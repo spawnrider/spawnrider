@@ -24,10 +24,10 @@ def inject_into_readme(content, readme_path="README.md"):
 
     new_section = f"<!-- START_STARS -->\n{content}\n<!-- END_STARS -->"
     updated_readme = re.sub(
-        r"<!-- START_STARS -->(.|\s)*?<!-- END_STARS -->",
+        r"<!-- START_STARS -->.*?<!-- END_STARS -->",
         new_section,
         readme,
-        flags=re.MULTILINE
+        flags=re.DOTALL
     )
 
     with open(readme_path, "w", encoding="utf-8") as f:
