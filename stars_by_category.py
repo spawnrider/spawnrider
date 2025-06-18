@@ -17,6 +17,21 @@ MAX_PER_USR = 100  # nombre max de repos récupérés par page (API GitHub)
 TOP_N = 10  # nombre à afficher par catégorie
 
 # ——— FONCTIONS ———
+def inject_into_readme(content, readme_path="README.md"):
+    with open(readme_path, "r", encoding="utf-8") as f:
+        readme = f.read()
+
+    new_section = f"<!-- START_STARS -->\n{content}\n<!-- END_STARS -->"
+    updated_readme = re.sub(
+        r"<!-- START_STARS -->(.|\s)*?<!-- END_STARS -->",
+        new_section,
+        readme,
+        flags=re.MULTILINE
+    )
+
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(updated_readme)
+        
 def get_starred(username, token):
     url = f"https://api.github.com/users/{username}/starred"
     headers = {"Authorization": f"token {token}"} if token else {}
@@ -72,3 +87,4 @@ if __name__ == "__main__":
     for cat, table in tables.items():
         print(f"\n## {cat}\n")
         print(table)
+    inject_into_readme(markdown)
