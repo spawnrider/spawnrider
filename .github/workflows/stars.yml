@@ -25,7 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python stars_by_category.py > stars.md
+          python stars_by_category.py
 
       - name: Commit and push
         run: |
