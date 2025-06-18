@@ -29,6 +29,11 @@ def inject_into_readme(content, readme_path="README.md"):
         readme,
         flags=re.DOTALL
     )
+    
+    if updated_readme != readme:
+        print("README.md mis à jour ✅")
+    else:
+        print("Aucun changement détecté dans README.md ❌")
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(updated_readme)
