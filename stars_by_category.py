@@ -34,7 +34,8 @@ def get_starred(username, token):
 
 def categorize(repo):
     topics = repo.get("topics", []) or []
-    langs = [repo.get("language", "").lower()]
+    lang = repo.get("language") or ""
+    langs = [lang.lower()]
     tags = topics + langs
     for category, keywords in CATEGORIES.items():
         if any(k.lower() in tags for k in keywords):
