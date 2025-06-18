@@ -118,4 +118,10 @@ What drives me :
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
+
+## 🌟 Mes stars GitHub
+
+<!-- START_STARS -->
+Contenu généré automatiquement…
+<!-- END_STARS -->
  
