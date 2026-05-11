@@ -123,76 +123,76 @@ What drives me :
 
 <!-- START_STARS -->
 
-### Frontend
+### Backend
 
 | Nom | ⭐ Stars | Langage | Description |
 | --- | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 368041 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 354127 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| [facebook/react](https://github.com/facebook/react) | 244827 | JavaScript | The library for web and native user interfaces. |
-| [vuejs/vue](https://github.com/vuejs/vue) | 209800 | TypeScript | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 195913 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 186608 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 184533 | TypeScript | Visual Studio Code |
-| [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 184439 |  | A book series (2 published editions) on the JS language. |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 172880 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 161488 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 433969 | Python | A collective list of free APIs |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 388044 | Python | :books: Freely available programming books |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 347788 | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 184166 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| [ollama/ollama](https://github.com/ollama/ollama) | 171171 | Go | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 147950 | Python | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 136548 | Python | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [anthropics/skills](https://github.com/anthropics/skills) | 131913 | Python | Public repository for Agent Skills |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 122184 | Go | Production-Grade Container Scheduling and Management |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 109703 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
 ### Autres
 
 | Nom | ⭐ Stars | Langage | Description |
 | --- | ---: | --- | --- |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 462210 |  | 😎 Awesome lists about all kinds of interesting topics |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 290069 |  | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 186693 | Shell | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
-| [obra/superpowers](https://github.com/obra/superpowers) | 177671 | Shell | An agentic skills framework & software development methodology that works. |
-| [flutter/flutter](https://github.com/flutter/flutter) | 176170 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 139388 | C | Display and control your Android device |
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 132802 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
-| [d3/d3](https://github.com/d3/d3) | 112835 | Shell | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
-| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 111566 |  | A collection of various awesome lists for hackers, pentesters and security researchers |
-| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 106172 | Rust | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 465079 |  | 😎 Awesome lists about all kinds of interesting topics |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 291435 |  | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 186918 | Shell | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 185807 | Shell | An agentic skills framework & software development methodology that works. |
+| [flutter/flutter](https://github.com/flutter/flutter) | 176269 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 139721 | C | Display and control your Android device |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 133021 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [d3/d3](https://github.com/d3/d3) | 112870 | Shell | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
+| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 112000 |  | A collection of various awesome lists for hackers, pentesters and security researchers |
+| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 106456 | Rust | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 
-### Backend
+### Frontend
 
 | Nom | ⭐ Stars | Langage | Description |
 | --- | ---: | --- | --- |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 430974 | Python | A collective list of free APIs |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 387618 | Python | :books: Freely available programming books |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 346918 | Python | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 183970 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
-| [ollama/ollama](https://github.com/ollama/ollama) | 170654 | Go | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 147670 | Python | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 135417 | Python | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [anthropics/skills](https://github.com/anthropics/skills) | 127803 | Python | Public repository for Agent Skills |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 122057 | Go | Production-Grade Container Scheduling and Management |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 108619 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 370693 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 354551 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [facebook/react](https://github.com/facebook/react) | 244937 | JavaScript | The library for web and native user interfaces. |
+| [vuejs/vue](https://github.com/vuejs/vue) | 209758 | TypeScript | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 195941 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 187395 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | 184777 | TypeScript | Visual Studio Code |
+| [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 184449 |  | A book series (2 published editions) on the JS language. |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 178789 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 161998 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 
 ### Automation
 
 | Nom | ⭐ Stars | Langage | Description |
 | --- | ---: | --- | --- |
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 218607 |  | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 59710 | Rust | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | 52465 | Shell | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
-| [dockur/windows](https://github.com/dockur/windows) | 51180 | Shell | Windows inside a Docker container. |
-| [Kong/kong](https://github.com/Kong/kong) | 43306 | Lua | 🦍 The API and AI Gateway |
-| [dokku/dokku](https://github.com/dokku/dokku) | 31874 | Shell | A docker-powered PaaS that helps you build and manage the lifecycle of applications |
-| [lensapp/lens](https://github.com/lensapp/lens) | 23152 |  | Lens - The way the world runs Kubernetes |
-| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | 21857 |  | 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection. |
-| [dockur/macos](https://github.com/dockur/macos) | 19590 | Shell | MacOS inside a Docker container. |
-| [deviantony/docker-elk](https://github.com/deviantony/docker-elk) | 18339 | Shell | The Elastic stack (ELK) powered by Docker and Compose. |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 219710 |  | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 60092 | Rust | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | 52483 | Shell | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
+| [dockur/windows](https://github.com/dockur/windows) | 51314 | Shell | Windows inside a Docker container. |
+| [Kong/kong](https://github.com/Kong/kong) | 43354 | Lua | 🦍 The API and AI Gateway |
+| [dokku/dokku](https://github.com/dokku/dokku) | 31867 | Shell | A docker-powered PaaS that helps you build and manage the lifecycle of applications |
+| [lensapp/lens](https://github.com/lensapp/lens) | 23149 |  | Lens - The way the world runs Kubernetes |
+| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | 22061 |  | 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection. |
+| [dockur/macos](https://github.com/dockur/macos) | 19898 | Shell | MacOS inside a Docker container. |
+| [deviantony/docker-elk](https://github.com/deviantony/docker-elk) | 18342 | Shell | The Elastic stack (ELK) powered by Docker and Compose. |
 
 ### IA
 
 | Nom | ⭐ Stars | Langage | Description |
 | --- | ---: | --- | --- |
-| [netdata/netdata](https://github.com/netdata/netdata) | 78692 | C | The fastest path to AI-powered full stack observability, even for lean teams. |
-| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 74164 | MDX | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. |
+| [netdata/netdata](https://github.com/netdata/netdata) | 78769 | C | The fastest path to AI-powered full stack observability, even for lean teams. |
+| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 74418 | MDX | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. |
 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) | 26755 | C++ | DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. |
-| [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | 18505 | Rust | Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era |
-| [roboflow/notebooks](https://github.com/roboflow/notebooks) | 9366 | Jupyter Notebook | A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL. |
-| [pixie-io/pixie](https://github.com/pixie-io/pixie) | 6432 | C++ | Instant Kubernetes-Native Application Observability |
+| [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | 18642 | Rust | Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era |
+| [roboflow/notebooks](https://github.com/roboflow/notebooks) | 9381 | Jupyter Notebook | A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL. |
+| [pixie-io/pixie](https://github.com/pixie-io/pixie) | 6438 | C++ | Instant Kubernetes-Native Application Observability |
 | [dustinvtran/ml-videos](https://github.com/dustinvtran/ml-videos) | 1555 |  | A collection of video resources for machine learning |
 | [tatsuyah/vehicle-detection](https://github.com/tatsuyah/vehicle-detection) | 1148 | Jupyter Notebook | Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree. |
 | [davidmigloz/langchain_dart](https://github.com/davidmigloz/langchain_dart) | 676 | Dart | Build LLM-powered Dart/Flutter applications. |
